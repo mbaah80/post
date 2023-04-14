@@ -1,0 +1,38 @@
+.addBlog{
+    background-color: #222222;
+}
+.addBlog .card{
+    background-color: #f8fafb;
+    margin: 40px;
+}
+.editor-class{
+    background-color: #fff !important;
+    border: 1px solid #e0e0e0;
+    border-radius: 14px;
+    padding: 10px;
+    height: 300px;
+}
+.rti--tag {
+    align-items: center;
+    background: #383838 !important;
+    display: inline-flex;
+    justify-content: center;
+}
+.rti--tag button {
+    background: none;
+    border: 0;
+    color: #fff !important;
+    border-radius: 50%;
+    cursor: pointer;
+    line-height: inherit;
+}
+.imagePreview{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border-radius: 14px;
+}
+.spinner-border{
+
+}

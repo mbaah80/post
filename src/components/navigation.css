@@ -1,0 +1,33 @@
+.extraColor{
+    background-color: #3e140c;
+    color:#fff;
+    padding: 15px;
+}
+.nav-link, .navbar-brand{
+    color:#cdc2bf !important;
+}
+.nav-link:hover{
+    color:#fff;
+}
+.active{
+    color: #fff;
+}
+.logoImg{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+.joinNavClass{
+    width: 100px;
+    border-radius: 40px;
+    background-color: #d43530;
+    border: none;
+    color: #fff !important;
+}
+.joinNavClass:hover{
+    width: 100px;
+    border-radius: 40px;
+    background-color: #e95f5a;
+    border: none;
+    color: #fff !important;
+}
